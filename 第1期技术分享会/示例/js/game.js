@@ -45,6 +45,7 @@ function gameInit(){
 	
 	var convexPoints=getConvexHull(points);
 	drawLines();
+	
 }
 
 function drawLines(){
