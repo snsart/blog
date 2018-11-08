@@ -55,7 +55,6 @@ function drawLines(){
 }
 
 
-//求点的凸包
 function getConvexHull(allPoints){
 	var points=allPoints.concat();
 	
@@ -112,7 +111,6 @@ function getConvexHull(allPoints){
 		}
 	}
 	
-	//选出y轴最小的点startPoint
 	function getStartPoint(points){
 		var startPoint=points[0];
 		for(var i=1;i<points.length;i++){
@@ -133,7 +131,7 @@ function getPolarAngle(p1,p2){
 	return Math.atan2(p2.y-p1.y,p2.x-p1.x);
 }
 
-//叉积
+
 function getCross(vector1,vector2){
 	return vector1.x*vector2.y-vector2.x*vector1.y;
 }

@@ -38,11 +38,6 @@ createjsExtend.getDistance=function(mc1,mc2){
  * @param mcArr存储元件的数组
  */
 
-/*createjsExtend.addDrawLineAction=function(mcArr,stage){
-	
-}
-*/
-
 
 
 /*改变显示对象的填充颜色
