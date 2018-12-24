@@ -6,4 +6,4 @@
 [2018-12-19——框架是什么](https://github.com/snsart/blog/blob/master/diary/2018.12.19.md)<br>
 [2018-12-20——设计模式：外观、适配器](https://github.com/snsart/blog/blob/master/diary/2018.12.20.md)<br>
 [2018-12-21——设计模式：代理](https://github.com/snsart/blog/blob/master/diary/2018.12.21.md)<br>
-[2018-12-24——设计模式：享元](https://github.com/snsart/blog/blob/master/diary/2018.12.24.md)<br>
+[2018-12-24——设计模式：享元、桥接](https://github.com/snsart/blog/blob/master/diary/2018.12.24.md)<br>
