@@ -7,3 +7,4 @@
 [2018-12-20——设计模式：外观、适配器](https://github.com/snsart/blog/blob/master/diary/2018.12.20.md)<br>
 [2018-12-21——设计模式：代理](https://github.com/snsart/blog/blob/master/diary/2018.12.21.md)<br>
 [2018-12-24——设计模式：享元、桥接](https://github.com/snsart/blog/blob/master/diary/2018.12.24.md)<br>
+[2018-12-25——设计模式：模板方法](https://github.com/snsart/blog/blob/master/diary/2018.12.25.md)<br>
