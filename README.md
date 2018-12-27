@@ -9,4 +9,5 @@
 [2018-12-24——设计模式：享元、桥接](https://github.com/snsart/blog/blob/master/diary/2018.12.24.md)<br>
 [2018-12-25——设计模式：模板方法](https://github.com/snsart/blog/blob/master/diary/2018.12.25.md)<br>
 [2018-12-26——npm和webpack介绍](https://github.com/snsart/blog/blob/master/diary/2018.12.26.md)<br>
+[2018-12-27——设计模式：中介者](https://github.com/snsart/blog/blob/master/diary/2018.12.27.md)<br>
 
