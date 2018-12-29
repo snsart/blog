@@ -1,6 +1,7 @@
 # 目录
 
 ## diary
+[2018-12-29——欧拉角与万向节死锁](https://github.com/snsart/blog/blob/master/diary/2018.12.28.md)<br>
 [2018-12-28——设计模式：备忘录](https://github.com/snsart/blog/blob/master/diary/2018.12.28.md)<br>
 [2018-12-27——设计模式：中介者](https://github.com/snsart/blog/blob/master/diary/2018.12.27.md)<br>
 [2018-12-26——npm和webpack介绍](https://github.com/snsart/blog/blob/master/diary/2018.12.26.md)<br>
