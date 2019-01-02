@@ -1,6 +1,7 @@
 # 目录
 
 ## diary
+[2019-01-02——js链模式：方法的链式调用](https://github.com/snsart/blog/blob/master/diary/2019.01.02.md)<br>
 [2018-12-29——欧拉角与万向节死锁](https://github.com/snsart/blog/blob/master/diary/2018.12.29.md)<br>
 [2018-12-28——设计模式：备忘录](https://github.com/snsart/blog/blob/master/diary/2018.12.28.md)<br>
 [2018-12-27——设计模式：中介者](https://github.com/snsart/blog/blob/master/diary/2018.12.27.md)<br>
