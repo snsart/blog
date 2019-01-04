@@ -1,6 +1,7 @@
 # 目录
 
 ## diary
+[2019-01-04——简单模板模式：更高效的创建视图的方式](https://github.com/snsart/blog/blob/master/diary/2019.01.04.md)<br>
 [2019-01-03——节流模式与节流器](https://github.com/snsart/blog/blob/master/diary/2019.01.03.md)<br>
 [2019-01-02——链模式：方法的链式调用、extend函数灵活添加属性](https://github.com/snsart/blog/blob/master/diary/2019.01.02.md)<br>
 [2018-12-29——欧拉角与万向节死锁](https://github.com/snsart/blog/blob/master/diary/2018.12.29.md)<br>
