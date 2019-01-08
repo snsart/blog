@@ -1,7 +1,8 @@
 # 目录
 
 ## diary
-[2019-01-07——惰性模式、函数绑定](https://github.com/snsart/blog/blob/master/diary/2019.01.04.md)<br>
+[2019-01-08——函数柯里化](https://github.com/snsart/blog/blob/master/diary/2019.01.08.md)<br>
+[2019-01-07——惰性模式、函数绑定](https://github.com/snsart/blog/blob/master/diary/2019.01.07.md)<br>
 [2019-01-04——简单模板模式：更高效的创建视图的方式](https://github.com/snsart/blog/blob/master/diary/2019.01.04.md)<br>
 [2019-01-03——节流模式与节流器](https://github.com/snsart/blog/blob/master/diary/2019.01.03.md)<br>
 [2019-01-02——链模式：方法的链式调用、extend函数灵活添加属性](https://github.com/snsart/blog/blob/master/diary/2019.01.02.md)<br>
