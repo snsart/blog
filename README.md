@@ -1,6 +1,8 @@
 # 目录
 
 ## diary
+[2019-01-16——Widget](https://github.com/snsart/blog/blob/master/diary/2019.01.16.md)<br>
+[2019-01-15——AMD:异步模块定义](https://github.com/snsart/blog/blob/master/diary/2019.01.15.md)<br>
 [2019-01-10——同步模块模式：从对象到模块](https://github.com/snsart/blog/blob/master/diary/2019.01.10.md)<br>
 [2019-01-09——等待者模式：监控异步任务](https://github.com/snsart/blog/blob/master/diary/2019.01.09.md)<br>
 [2019-01-08——函数柯里化](https://github.com/snsart/blog/blob/master/diary/2019.01.08.md)<br>
