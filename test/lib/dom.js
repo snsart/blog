@@ -1,5 +1,5 @@
 F.module('lib/dom',function(){
-	return{
+	return {
 		fn1:function(id){
 			return "test123456";
 		}

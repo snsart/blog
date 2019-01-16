@@ -54,7 +54,7 @@ formateString(model,data);
 				moduleCache[moduleName]={
 					moduleName:moduleName,
 					status:'loading',
-					exports:null,
+					exports:null,//此模块的入口函数，即创建此模块时，回调函数中返回的对象。
 					onload:[callback]
 				};
 				loadScript(getURL(moduleName));
@@ -74,13 +74,10 @@ formateString(model,data);
 			while(i<len){
 				(function(i){
 					depsCount++;
-					console.log(depsCount);
 					loadModule(deps[i],function(mod){
 						params[i]=mod;
 						depsCount--;
-						console.log(depsCount);
 						if(depsCount===0){
-							console.log("完成");
 							setModule(url,params,callback);	
 						}
 					});
@@ -89,15 +86,12 @@ formateString(model,data);
 			}
 		}else{
 			setModule(url,[],callback);
-			console.log("555555");
 		}
 	}
-	
-	
 })(
 	window.F={}
 )
 
-F.module(['lib/dom','lib/test2'],function(){
+F.module(['lib/dom','lib/test2'],function(dom){
 	
 })
