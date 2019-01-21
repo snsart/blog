@@ -1,6 +1,7 @@
 # 目录
 
 ## diary
+[2019-01-21——MVP](https://github.com/snsart/blog/blob/master/diary/2019.01.21.md)<br>
 [2019-01-18——MVC](https://github.com/snsart/blog/blob/master/diary/2019.01.18.md)<br>
 [2019-01-16——Widget](https://github.com/snsart/blog/blob/master/diary/2019.01.16.md)<br>
 [2019-01-15——AMD:异步模块定义](https://github.com/snsart/blog/blob/master/diary/2019.01.15.md)<br>
