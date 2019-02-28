@@ -1,6 +1,7 @@
 # 目录
 
 ## diary
+[2019-02-27——redux核心概念](https://github.com/snsart/blog/blob/master/diary/2019.02.27.md)<br>
 [2019-01-23——react总结：产生、特征、组成及应用](https://github.com/snsart/blog/blob/master/diary/2019.01.23.md)<br>
 [2019-01-21——MVVM](https://github.com/snsart/blog/blob/master/diary/2019.01.21.md)<br>
 [2019-01-19——MVP](https://github.com/snsart/blog/blob/master/diary/2019.01.19.md)<br>
