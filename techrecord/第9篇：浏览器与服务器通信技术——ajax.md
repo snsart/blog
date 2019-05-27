@@ -117,7 +117,7 @@ loadend:在通信完成或者触发error、abort或load事件后触发。
 xhr.onprogress=function(event){
 	var divStatus=document.getElementById("status");
 	if(event.lengthComputable){
-		divStatus.innerHTML="接收："+event.position+"总共："+"event.tatalSize"+"字节";
+		divStatus.innerHTML="接收："+event.loaded+"总共："+"event.total"+"字节";
 	}
 };
 xhr.open("get","altevents.php",true);
